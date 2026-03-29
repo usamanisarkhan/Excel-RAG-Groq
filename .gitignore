@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.python-version
+
+# Node.js
+node_modules/
+dist/
+dist-ssr/
+*.local
+.eslintcache
+.vite/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Databases/Vector Stores
+*.index
+*.pkl
+faiss_index/
+
+# OS
+.DS_Store
+Thumbs.db
