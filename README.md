@@ -1,6 +1,7 @@
 # Excel RAG with Groq & FAISS 🚀
 
 A premium Retrieval-Augmented Generation (RAG) application that allows you to upload Excel spreadsheets and ask questions about your data using the ultra-fast Groq API and FAISS vector database.
+<img width="1644" height="919" alt="image" src="https://github.com/user-attachments/assets/b2fedb49-d037-407f-aedb-efff6697e3b8" />
 
 ## ✨ Features
 - **High-Speed Inference**: Powered by **Groq Llama 3.3-70b** for near-instant responses.
