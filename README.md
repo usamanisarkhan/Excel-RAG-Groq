@@ -75,5 +75,10 @@ A premium Retrieval-Augmented Generation (RAG) application that allows you to up
 3. **Retrieval**: When a query is made, `FAISS` calculates cosine similarity to find the most relevant context.
 4. **Generation**: Relevant chunks are formatted into a prompt and sent to **Groq** for the final answer.
 
-## 📄 License
-MIT License. Feel free to use and modify for your own projects!
+## SECOND METHOD 
+<img width="1631" height="952" alt="image" src="https://github.com/user-attachments/assets/f397f017-c5be-47f4-9977-b541f4f675e1" />
+
+<img width="425" height="645" alt="image" src="https://github.com/user-attachments/assets/e8091d5e-de5f-453e-a2a7-917a83c9668c" />
+<img width="1112" height="676" alt="image" src="https://github.com/user-attachments/assets/aa3f0bf8-8994-432b-9048-2ec6a4e8d7de" />
+
+
