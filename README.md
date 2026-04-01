@@ -17,6 +17,8 @@ A premium Retrieval-Augmented Generation (RAG) application that allows you to up
 - **Frontend**: [React](https://react.dev/), [Vite](https://vitejs.dev/), [Axios](https://axios-http.com/)
 
 ---
+# Prompt
+Make a basic RAG application which takes an excell file as upload and allows users to ask question from the file. the API key used must be of GROQ and vector data base should be of FAISS. use this API key :
 
 ## 🚀 Getting Started
 
